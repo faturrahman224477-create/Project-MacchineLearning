@@ -7,7 +7,7 @@ from pypdf import PdfReader
 # Konfigurasi Halaman Web
 st.set_page_config(page_title="AI Resume Matcher & Career Lab", page_icon="🤖", layout="wide")
 
-st.title("🤖 AI Resume & Portfolio Matching Engine")
+st.title("🤖 AI Resume & Portfolio Matching Engine HRD FATUR")
 st.write("Lab interaktif berbasis Machine Learning untuk evaluasi kesesuaian CV dengan standar industri secara instan.")
 
 st.markdown("---")
